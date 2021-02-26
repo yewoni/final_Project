@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tab1"
+        android:icon="@drawable/moon"
+        android:title="취침" />
+    <item
+        android:id="@+id/tab2"
+        android:icon="@drawable/note"
+        android:title="일지" />
+    <item
+        android:id="@+id/tab3"
+        android:icon="@drawable/stats"
+        android:title="통계" />
+    <item
+        android:id="@+id/tab4"
+        android:icon="@drawable/sett"
+        android:title="설정" />
+</menu>
